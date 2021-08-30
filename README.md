@@ -1,2 +1,1 @@
-"# PPPO" 
-"# PPPO" 
+Klasifikacija slika
